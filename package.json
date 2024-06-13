@@ -1,0 +1,41 @@
+{
+  "name": "https-keygen-extension-pack",
+  "displayName": "https.keygen Extension Pack",
+  "publisher": "httpskeygen",
+  "description": "A collection of extensions for web development",
+  "icon": "icon.png",
+  "license": "MIT",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/httpsKeygen/https.keygen-extension-pack"
+  },
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "aaron-bond.better-comments",
+    "adpyke.codesnap",
+    "christian-kohler.path-intellisense",
+    "dbaeumer.vscode-eslint",
+    "ecmel.vscode-html-css",
+    "eliverlara.andromeda",
+    "esbenp.prettier-vscode",
+    "jock.svg",
+    "ms-vscode.cmake-tools",
+    "ms-vscode.cpptools",
+    "ms-vscode.cpptools-extension-pack",
+    "ms-vscode.cpptools-themes",
+    "naumovs.color-highlight",
+    "pkief.material-icon-theme",
+    "pranaygp.vscode-css-peek",
+    "ritwickdey.liveserver",
+    "shardulm94.trailing-spaces",
+    "twxs.cmake",
+    "usernamehw.errorlens",
+    "zignd.html-css-class-completion"
+  ]
+}
